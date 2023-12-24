@@ -32,17 +32,7 @@
   text-overflow: ellipsis;
   white-space: nowrap;
 }
-.product-price {
-  font-size: 14px;
-  font-weight: bold;
-    background: #3f56c887;
 
-}
-div.product-card-footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 60px;
-}
+
 
 
