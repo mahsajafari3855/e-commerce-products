@@ -1,3 +1,17 @@
+# Project Name
+
+This repository hosts a single-page web application developed with React to manage and display a collection of products. Users can filter products by name and sort them based on price, providing a seamless browsing experience.
+
+## Key Features
+- **Product Display:** Explore a curated list of products fetched dynamically.
+- **Filtering by Name:** Find specific products by typing their names in the search bar.
+- **Sorting by Price:** Arrange products based on their price, from low to high or vice versa.
+- **Responsive Design:** Ensures an optimal viewing experience across various devices.
+
+## Technologies Used
+- **Frontend:** Developed using React, along with HTML and CSS for structure and styling.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
